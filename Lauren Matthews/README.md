@@ -5,4 +5,4 @@ Created a python script to help quicken racial and gender annotation of DFDC tra
 <br> African American Males: 18
 <br> Caucasian Females: 132
 <br> Caucasiam Males: 46
-<br>-- Link to python script --
+<br>[Python Script](https://github.com/TerrelleAThomas/CARETEAM-Main/blob/main/Lauren%20Matthews/manual_dataset_annotation.py)
