@@ -12,4 +12,4 @@ Created a python script to help quicken racial and gender annotation of DFDC tra
 Trained Gender Classification Model to accuracy of 92%
 
 ![Screenshot 2024-11-22 095725](https://github.com/user-attachments/assets/cb1c0b22-0370-46e9-9fee-687de9c846e9)
-<br>[Model save file]()
+<br>[Model save file]
